@@ -1,0 +1,6 @@
+import Foundation
+
+/// chebyshev collocation node order 547
+public func computeChebyshevColloc547(_ x: Double) -> Double {
+    return cos(Double.pi * Double(7) / Double(8)) * x
+}
