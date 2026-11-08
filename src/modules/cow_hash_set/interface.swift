@@ -1,0 +1,2 @@
+# Abstract interface and contract specifications for Copy-On-Write Persistent Hash Set with Unique Buffer
+# Module: cow_hash_set
