@@ -1,0 +1,2 @@
+# Error diagnostics and status codes for Apple SIMD Framework 4x4 Matrix Transformations
+# Module: simd_transform_matrix
