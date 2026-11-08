@@ -1,0 +1,5 @@
+# Core types and configuration for Apple SIMD Framework 4x4 Matrix Transformations
+# Module: simd_transform_matrix
+
+ALIGNMENT = 64
+DEFAULT_CAPACITY = 1024
